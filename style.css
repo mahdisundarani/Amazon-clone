@@ -149,6 +149,7 @@ span{
     display: flex;
     justify-content: center;
     align-items: flex-end;
+   
 }
 
 .hero-msg{ 
@@ -165,4 +166,19 @@ span{
 
 .hero-msg a{
     color: #007185;
+}
+
+/* shop section */
+.shop-section{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #deb8d2;
+}
+
+.box{
+    height: 400px;
+    border: 2px solid red;
+    width: 23%;
+    background-color: white;
+
 }
